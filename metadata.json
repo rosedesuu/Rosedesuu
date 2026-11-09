@@ -1,0 +1,6 @@
+{
+  "name": "KROMA Studio — Creative Engineering & Digital Design",
+  "description": "A high-performance modern website featuring curated case studies, interactive project scoping, live design personalization, and real-time project inquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
